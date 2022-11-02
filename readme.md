@@ -5,7 +5,7 @@
 <hr>
 
 <h3 align="center">
-    <p>Second Place in Dialogue 2022: RuATD(multi)  </p></h3>
+    <p>Artificial Text Detection with Multiple Training Strategies</p></h3>
 
 
 ## Method
@@ -142,3 +142,12 @@ python test.py
 ```
 
 Through model fusion, the highest score of 64.5 can be achieved in the test set.
+
+
+## Cite
+```
+@article{liartificial,
+  title={Artificial Text Detection with Multiple Training Strategies},
+  author={Li, Bin and Weng, Yixuan and Song, Qiya and Deng, Hanjun}
+}
+```
